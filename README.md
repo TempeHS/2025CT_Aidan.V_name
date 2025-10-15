@@ -1,6 +1,6 @@
-# Project Title
+# Rags to Riches
 
-My Game
+My game is...
 
 ## Description
 
