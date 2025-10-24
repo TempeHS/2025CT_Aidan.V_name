@@ -1,6 +1,6 @@
 # Rags to Riches
 
-My game is...
+My game is about a man going from being poor to rich. He has a metal detector which he uses at the beach to collect pieces of metal, minerals, ores or treasure. Using this he can then sell it for money to progress to his end goal which is to eat at this fine dining resturant.
 
 ## Description
 
