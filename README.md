@@ -7,9 +7,15 @@ This game was created for a school assignment. My game is about a man going from
 # General Information
 ## About
 <p align="justify">
-   This game was made as a project for an assessment. It was supposed to fit the theme of "games for change," but it didn’t fully meet that goal. My game details the journey of a hipster 
+   This game was made as a project for an assessment. It was supposed to fit the theme of "games for change," but it didn’t fully meet that goal. My game details the journey of a hipster.
+   
 </p>
 An in-depth paragraph about your project and overview of use.
+
+## Objective
+<p align="justify">
+  The objective of the game is to detect treasure at the beach, sell the treasure for money, then save up money to then end up eating at the fine dining resturant "Orion's Table".
+</p>
 
 ## Getting Started
 
