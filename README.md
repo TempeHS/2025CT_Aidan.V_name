@@ -20,7 +20,7 @@ This game was created for a school assignment. My game is about a man going from
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* Describe any prerequisites, libraries, OS version, etc., needed before install\ing program.
 * ex. Windows 10
 
 ### Installing
