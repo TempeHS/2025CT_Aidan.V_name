@@ -1,69 +1,63 @@
 <h1 align="center">2025CT_Aidan.V_Rags_to_Riches</h1>
 
-This game was created for a school assignment. My game is about a man going from being poor to rich. He has a metal detector which he uses at the beach to collect pieces of metal, minerals, ores or treasure. Using this he can then sell it for money to progress to his end goal which is to eat at this fine dining resturant.
+# Gameplay Overview
 
-# Table of Contents
+https://github.com/user-attachments/assets/c0b93044-b7e3-44b1-9f6b-2c802153f1d5
 
 # General Information
 ## About
 <p align="justify">
-   This game was made as a project for an assessment. It was supposed to fit the theme of "games for change," but it didn’t fully meet that goal. My game details the journey of a hipster.
-   
+   My game, "Rags to Riches," is a game made as a project for an assessment. It was supposed to fit the theme of "games for change," but it didn't fully meet that goal. My game details the story of a hipster who starts with nothing but a cheap metal detector and a dream to on day dine in a luxurious 5-star resturant by the seashore. You have to explore the beach, scanning for hidden treasures buried beneath the sand. Each find could be worthless junk or a fortune. With these treasures, you sell what you find, upgrade your gear, and then progress through the game to end up with the goal of dining in a 5-star restaurant, "Orion's Table".
 </p>
 
 ## Objective
 <p align="justify">
-  The objective of the game is to detect treasure at the beach, sell the treasure for money, then save up money to then end up eating at the fine dining resturant "Orion's Table".
+   The main objective of my game is to become wealthy enough to enter the luxurious 5-star restaurant by the seashore, showing the player's journey from rags to riches. To do this, you have to scavenge the beach with your cheap metal detector. You must search for hidden items buried at the beach, some worthless, some valuable, and sell their treasures to earn money. With each treasure, you can upgrade your gear, unlock new beach zones, and complete goals displayed at the top of the screen.
 </p>
 
-## Getting Started
+## Gameplay
+Detect → Dig → Sell or Store → Buy → Upgrade → Repeat
 
-### Dependencies
+## Controls :video_game:
 
-* Describe any prerequisites, libraries, OS version, etc., needed before install\ing program.
-* ex. Windows 10
+| Action        | Output                              |
+| ------------- | ----------------------------------- |
+| **A**         | Move Left                           |
+| **D**         | Move Right                          |
+| **Left Shift**| Dash                                |
+| **Space**     | Jump                                |
 
-### Installing
+## Background
+![Multimedia Background for game](https://github.com/user-attachments/assets/498bc3e9-c6b5-4bac-9349-0622a1757202)
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+## Character
+![Animation](https://github.com/user-attachments/assets/f2909307-a9b1-46f7-b8ca-7790fd28b579)
 
-### Executing program
+## Features
+🟢**Playable 2D Character with Left and Right Movement Animations**
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+🟢**Movement Controls** (Left and Right)
 
-## Help
+🟢**Custom Background and Visual Environment**
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+🟢**Interactive Main Menu**
+
+🔴**Interactive Shops**
+
+🔴**Metal Detecting Mechanism**
+
+🔴**No goals**
+
+🔴**No Money System**
+
+## What I Am Still Working On
+I plan to have a fully interactive game experience. Players will be able to use their metal detectors to scan the beach and locate hidden treasures, then dig them up based on signal strength and accuracy. A shop system will allow players to sell their treasures, store valuable items, and purchase upgrades to improve the metal detectors. As players progress, new beach zones will be unlocked, allowing players to find rarer treasures and unlock new goals. I also plan to add goals and objectives to be displayed at the top of the screen to show the player's progress. This all aims to help the player progress to reach his goal of dining at Orion's Table.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Mr Jones
-ex. [@benpaddlejones](https://github.com/benpaddlejones)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]() or see [branch]()
-* 0.1
-    * Initial Release
+:computer: Developer - Aidan Vu <br>
+:art: Sprite Maker - Felix Wilson
 
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [TempeHS Unity template](https://github.com/TempeHS/TempeHS_Unity_DevContainer)
