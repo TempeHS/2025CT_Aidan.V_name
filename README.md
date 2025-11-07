@@ -53,6 +53,19 @@ Detect → Dig → Sell or Store → Buy → Upgrade → Repeat
 ## What I Am Still Working On
 I plan to have a fully interactive game experience. Players will be able to use their metal detectors to scan the beach and locate hidden treasures, then dig them up based on signal strength and accuracy. A shop system will allow players to sell their treasures, store valuable items, and purchase upgrades to improve the metal detectors. As players progress, new beach zones will be unlocked, allowing players to find rarer treasures and unlock new goals. I also plan to add goals and objectives to be displayed at the top of the screen to show the player's progress. This all aims to help the player progress to reach his goal of dining at Orion's Table.
 
+## Sources
+| Function | Tutorial |
+| ----------- | ----------- |
+| Idle and Walking Player Animations | [https://www.youtube.com/watch?v=DQY62meLVCk](https://www.youtube.com/watch?v=82U4ToJU-28) |
+| Player Movement | 	https://www.youtube.com/watch?v=DQY62meLVCk |
+| 2D Movement | [https://www.youtube.com/watch?v=kV9rVinFyAk](https://www.youtube.com/watch?v=sN4321Mkg0o&t) |
+| Background | [https://www.youtube.com/watch?v=UId0mwanBZg](https://www.youtube.com/watch?v=GNFrhwAvrME&t) |
+| Sprite Sheet | [https://www.youtube.com/watch?v=4xPHqEEa-V0](https://www.youtube.com/watch?v=XbXfIx3_YFI) |
+| Camera Follow | [https://www.youtube.com/watch?v=721TkkJ-CNM](https://www.youtube.com/watch?v=MFQhpwc6cKE) |
+| Camera Follow | [https://www.youtube.com/watch?v=9r9YbHsjSKs](https://www.youtube.com/watch?v=ZBj3LBA2vUY) |
+| Tilemap | [https://www.youtube.com/watch?v=liba3xGI4gM](https://www.youtube.com/watch?v=g83_gwEO0kM&t=1s) |
+
+
 ## Authors
 
 :computer: Developer - Aidan Vu <br>
